@@ -6,3 +6,6 @@ def get_version():
 
 def local_status():
     return "Running locally"
+
+def server_version():
+    return "abc"
